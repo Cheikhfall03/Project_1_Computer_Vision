@@ -1,0 +1,15 @@
+numpy 
+tensorflow
+torch
+opencv-python
+transformers
+matplotlib
+scikit-learn
+torchvision
+pandas
+seaborn
+Pillow
+flask
+pip install gunicorn
+pip freeze > requirements.txt
+
