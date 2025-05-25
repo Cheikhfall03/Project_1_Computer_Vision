@@ -10,4 +10,6 @@ pandas
 seaborn
 Pillow
 flask
-gunicorn
+numpy==1.23.5
+streamlit
+tensorflow==2.12.0
